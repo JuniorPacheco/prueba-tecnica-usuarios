@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Eemil",
+    "last": "Hiltunen"
+  },
+  "location": {
+    "street": {
+      "number": 775,
+      "name": "Rautatienkatu"
+    },
+    "city": "Kuhmoinen",
+    "state": "Tavastia Proper",
+    "country": "Finland",
+    "postcode": 48953,
+    "coordinates": {
+      "latitude": "-28.0723",
+      "longitude": "-78.6558"
+    },
+    "timezone": {
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+    }
+  },
+  "email": "eemil.hiltunen@example.com",
+  "login": {
+    "uuid": "3281a5d6-dc14-4440-bc9d-e161b8a1f09b",
+    "username": "organicsnake914",
+    "password": "rimmer",
+    "salt": "ZXfssral",
+    "md5": "de733b84f7244924ce30566434fc230c",
+    "sha1": "de35ea4356bb8daba5ad1cc04d1ad62c4c242138",
+    "sha256": "68b99a0dbdf5c16da71ee258c8450671e4fccf289baf583541d5e02dedcbb9f4"
+  },
+  "dob": {
+    "date": "1951-01-25T21:39:13.973Z",
+    "age": 73
+  },
+  "registered": {
+    "date": "2011-01-15T18:07:56.869Z",
+    "age": 13
+  },
+  "phone": "07-561-905",
+  "cell": "047-293-08-10",
+  "id": {
+    "name": "HETU",
+    "value": "NaNNA681undefined"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+  },
+  "nat": "FI"
+}
